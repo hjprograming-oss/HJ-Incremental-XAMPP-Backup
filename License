@@ -1,14 +1,14 @@
-# HJ Incremental XAMPP Backup Source-Available Proprietary License
+# Eldvor Technologies Source-Available Proprietary Software License
 
-**Version 1.0**
+**Version 2.0**
 
-Copyright © 2026 HJ Pro Gaming. All Rights Reserved.
+Copyright © 2026 Eldvor Technologies. All Rights Reserved.
 
 ---
 
 ## 1. Acceptance
 
-By accessing, downloading, cloning, forking, compiling, executing, modifying, copying, contributing to, or otherwise using HJ Incremental XAMPP Backup ("the Software"), you acknowledge that you have read, understood, and agree to be bound by the terms of this License.
+By accessing, downloading, installing, cloning, forking, compiling, executing, modifying, copying, contributing to, or otherwise using any software, source code, binaries, libraries, documentation, or related materials distributed under this License (collectively, the **"Software"**), you acknowledge that you have read, understood, and agree to be bound by the terms of this License.
 
 If you do not agree to these terms, you must not use the Software.
 
@@ -16,7 +16,7 @@ If you do not agree to these terms, you must not use the Software.
 
 ## 2. Ownership
 
-HJ Incremental XAMPP Backup and all associated source code, object code, binaries, documentation, databases, graphics, icons, user interfaces, scripts, configuration files, installers, trademarks, trade names, logos, artwork, and other intellectual property are the exclusive property of HJ Pro Gaming unless otherwise expressly stated.
+The Software, including all associated source code, object code, binaries, documentation, databases, graphics, icons, user interfaces, installers, scripts, configuration files, artwork, firmware, libraries, APIs, trademarks, trade names, logos, product names, and all related intellectual property, is and shall remain the exclusive property of **Eldvor Technologies**, unless expressly stated otherwise.
 
 No ownership rights are transferred under this License.
 
@@ -26,7 +26,7 @@ All rights not expressly granted are reserved.
 
 ## 3. Copyright
 
-This Software is protected by international copyright laws, including but not limited to applicable national copyright legislation, the Berne Convention for the Protection of Literary and Artistic Works, the WIPO Copyright Treaty, the TRIPS Agreement, and other applicable international intellectual property treaties.
+The Software is protected by applicable copyright laws and international intellectual property treaties, including but not limited to the Berne Convention, the WIPO Copyright Treaty, the TRIPS Agreement, and applicable national legislation.
 
 Unauthorized use may result in civil and criminal penalties where permitted by law.
 
@@ -34,14 +34,14 @@ Unauthorized use may result in civil and criminal penalties where permitted by l
 
 ## 4. Grant of License
 
-Subject to full compliance with this License, HJ Pro Gaming grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to:
+Subject to compliance with this License, **Eldvor Technologies** grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to:
 
 * View the source code.
 * Download the Software.
-* Clone the repository.
+* Clone official repositories.
 * Compile the Software.
 * Execute the Software.
-* Modify the Software for personal, educational, research, or internal non-commercial purposes.
+* Modify the Software for personal, educational, research, evaluation, or internal non-commercial purposes.
 * Create private forks.
 * Submit bug reports.
 * Submit feature requests.
@@ -54,7 +54,7 @@ No other rights are granted.
 
 ## 5. Restrictions
 
-Unless expressly authorized in writing by HJ Pro Gaming, you may **NOT**:
+Unless expressly authorized in writing by **Eldvor Technologies**, you may not:
 
 * Sell the Software.
 * Sell modified versions.
@@ -62,157 +62,124 @@ Unless expressly authorized in writing by HJ Pro Gaming, you may **NOT**:
 * Sell source code.
 * Sell installers.
 * Sell updates.
+* Sell derivative works.
+* Redistribute modified versions.
 * Offer the Software as a commercial service.
 * Offer the Software as Software-as-a-Service (SaaS).
-* Offer hosted backup services using the Software.
+* Offer managed or hosted services using the Software.
 * Include the Software in any commercial product.
 * Bundle the Software with commercial software.
+* Lease or rent the Software.
+* License or sublicense the Software.
 * Redistribute the Software for financial gain.
-* Lease the Software.
-* Rent the Software.
-* License the Software to third parties.
-* Sublicense the Software.
-* Use the Software to provide paid support services where the Software is the primary product.
+* Use the Software as the basis of a competing commercial product.
 * Remove copyright notices.
 * Remove license notices.
-* Remove author attribution.
 * Remove trademark notices.
+* Remove author attribution.
 * Circumvent license enforcement mechanisms.
-* Misrepresent ownership.
-* Reverse engineer proprietary portions that are not already provided in source form.
-* Use any portion of the Software to develop, market, operate, or distribute a competing commercial product without prior written permission.
+* Misrepresent ownership or origin.
+* Reverse engineer proprietary components not distributed in source form.
 * Train commercial artificial intelligence or machine learning systems using the Software or substantial portions of its source code without prior written permission.
 
 ---
 
 ## 6. Commercial Use
 
-Any commercial use requires a separate written Commercial License Agreement signed by an authorized representative of HJ Pro Gaming.
+Any commercial use requires a separate written Commercial License Agreement executed by an authorized representative of **Eldvor Technologies**.
 
 Commercial use includes, but is not limited to:
 
 * Selling the Software.
 * Selling modified versions.
-* Internal business use where the Software forms part of revenue-generating operations.
-* Managed backup services.
-* Cloud backup services.
+* Internal business use where the Software forms part of revenue-generating activities.
+* SaaS offerings.
+* Cloud services.
 * Hosting services.
-* Paid subscriptions.
-* Commercial consulting where the Software is supplied.
+* Managed services.
 * OEM distribution.
 * Enterprise redistribution.
-* Paid support centered on the Software.
+* Commercial consulting involving the Software.
+* Paid technical support where the Software is the primary product.
 * Commercial training.
 * Bundling with commercial hardware or software.
 
-No verbal agreement, email discussion, online message, GitHub issue, or pull request grants commercial rights.
+No verbal agreement, email, online discussion, GitHub issue, pull request, or other informal communication grants commercial rights.
 
-Only a signed written agreement from HJ Pro Gaming grants commercial rights.
+Only a signed written agreement grants commercial rights.
 
 ---
 
 ## 7. Contributions
 
-HJ Pro Gaming welcomes community contributions.
+Contributions are welcome.
 
-By submitting any Contribution, including but not limited to source code, documentation, artwork, translations, bug fixes, suggestions, feature implementations, or other modifications, you represent and warrant that:
+By submitting any Contribution, you represent that you own the necessary rights to do so.
 
-* You own the Contribution or possess sufficient legal rights to submit it.
-* The Contribution does not knowingly infringe the intellectual property rights of any third party.
+You grant **Eldvor Technologies** a perpetual, irrevocable, worldwide, royalty-free, transferable, sublicensable license to use, modify, publish, distribute, commercialize, relicense, and otherwise exploit your Contribution.
 
-You grant HJ Pro Gaming a perpetual, irrevocable, worldwide, royalty-free, fully paid, transferable, sublicensable license to use, copy, modify, merge, publish, distribute, relicense, commercialize, and otherwise exploit your Contribution for any purpose.
+You retain copyright ownership of your original Contribution.
 
-You retain copyright to your original Contribution.
+No compensation shall be payable for Contributions.
 
-No compensation, royalties, revenue sharing, or future payments shall be owed for Contributions.
-
-HJ Pro Gaming is under no obligation to accept or use any Contribution.
+**Eldvor Technologies** has no obligation to accept or incorporate any Contribution.
 
 ---
 
 ## 8. Distribution
 
-Redistribution of the original unmodified Software for non-commercial purposes is permitted provided:
+Redistribution of the original, unmodified Software for non-commercial purposes is permitted provided that:
 
 * This License is included in full.
 * Copyright notices remain intact.
-* No fees are charged beyond reasonable media or transmission costs.
 * No modifications are made.
+* No fee is charged other than reasonable media or transmission costs.
 
-Modified versions may not be redistributed without written permission from HJ Pro Gaming.
+Redistribution of modified versions requires prior written permission from **Eldvor Technologies**.
 
 ---
 
 ## 9. Trademarks
 
-"HJ Pro Gaming", "HJ Incremental XAMPP Backup", associated logos, icons, branding, and product names are trademarks or trade names of HJ Pro Gaming.
+"Eldvor Technologies", all product names (including but not limited to **Eldvor Guardian**), logos, icons, branding, and related marks are trademarks or trade names of **Eldvor Technologies**.
 
-No trademark rights are granted under this License.
+No trademark rights are granted by this License.
 
 ---
 
 ## 10. Patents
 
-No patent license, express or implied, is granted by this License.
+No patent rights, express or implied, are granted under this License.
 
 ---
 
 ## 11. Confidential Information
 
-Nothing in this License requires HJ Pro Gaming to disclose proprietary technology, unpublished source code, trade secrets, internal documentation, security mechanisms, development tools, signing keys, infrastructure, or confidential business information.
+Nothing in this License requires **Eldvor Technologies** to disclose trade secrets, unpublished source code, proprietary technologies, internal documentation, security mechanisms, signing keys, infrastructure, development tools, or confidential business information.
 
 ---
 
 ## 12. Warranty Disclaimer
 
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND.
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, HJ PRO GAMING DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, **ELDVOR TECHNOLOGIES** DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, SECURITY, PERFORMANCE, AND AVAILABILITY.
 
-* MERCHANTABILITY
-* FITNESS FOR A PARTICULAR PURPOSE
-* TITLE
-* NON-INFRINGEMENT
-* ACCURACY
-* RELIABILITY
-* SECURITY
-* PERFORMANCE
-* AVAILABILITY
-
-YOU ASSUME ALL RISK ARISING FROM THE USE OF THE SOFTWARE.
+YOU ASSUME ALL RISKS ARISING FROM USE OF THE SOFTWARE.
 
 ---
 
 ## 13. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, HJ PRO GAMING SHALL NOT BE LIABLE FOR ANY:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, **ELDVOR TECHNOLOGIES** SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, BUSINESS, REVENUE, DATA, GOODWILL, OR BUSINESS INTERRUPTION, REGARDLESS OF THE LEGAL THEORY ASSERTED.
 
-* DIRECT DAMAGES
-* INDIRECT DAMAGES
-* INCIDENTAL DAMAGES
-* SPECIAL DAMAGES
-* CONSEQUENTIAL DAMAGES
-* PUNITIVE DAMAGES
-* EXEMPLARY DAMAGES
-* LOSS OF PROFITS
-* LOSS OF BUSINESS
-* LOSS OF REVENUE
-* LOSS OF DATA
-* LOSS OF GOODWILL
-* BUSINESS INTERRUPTION
-* COMPUTER FAILURE
-* SECURITY INCIDENTS
-* PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES
-
-REGARDLESS OF THE LEGAL THEORY ASSERTED.
-
-IF LIABILITY CANNOT BE EXCLUDED UNDER APPLICABLE LAW, THE MAXIMUM AGGREGATE LIABILITY SHALL NOT EXCEED ONE UNITED STATES DOLLAR (US$1.00).
+WHERE LIABILITY CANNOT BE EXCLUDED UNDER APPLICABLE LAW, THE TOTAL AGGREGATE LIABILITY SHALL NOT EXCEED ONE UNITED STATES DOLLAR (US$1.00).
 
 ---
 
 ## 14. Export Compliance
 
-You agree to comply with all applicable export control laws and regulations of the jurisdictions in which you operate.
+You agree to comply with all applicable export control and sanctions laws and regulations.
 
 ---
 
@@ -220,46 +187,44 @@ You agree to comply with all applicable export control laws and regulations of t
 
 This License automatically terminates upon any breach.
 
-Upon termination you must immediately:
+Upon termination, you must immediately:
 
-* Stop using the Software.
+* Cease using the Software.
 * Destroy all copies under your control.
 * Remove deployed instances where legally required.
-* Cease all redistribution.
+* Cease redistribution.
 
-Termination does not affect HJ Pro Gaming's right to pursue legal remedies.
+Termination does not limit any legal remedies available to **Eldvor Technologies**.
 
 ---
 
 ## 16. Governing Law
 
-This License shall be governed by and interpreted under the laws of the Republic of South Africa, excluding conflict of law principles.
-
-The parties acknowledge that international copyright protection shall be interpreted consistently with applicable international treaties where enforceable.
+This License shall be governed by the laws of the Republic of South Africa, excluding conflict-of-law principles.
 
 ---
 
 ## 17. Severability
 
-If any provision of this License is found unenforceable, invalid, or unlawful, the remaining provisions shall remain in full force and effect.
+If any provision of this License is determined to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 ---
 
 ## 18. Entire Agreement
 
-This License constitutes the complete agreement concerning the Software and supersedes all prior oral or written communications relating to the subject matter of this License.
+This License constitutes the complete agreement governing the Software and supersedes all prior communications relating to its subject matter.
 
 ---
 
 ## 19. No Waiver
 
-Failure by HJ Pro Gaming to enforce any provision of this License shall not constitute a waiver of any rights.
+Failure by **Eldvor Technologies** to enforce any provision of this License shall not constitute a waiver of any right.
 
 ---
 
 ## 20. Reservation of Rights
 
-All rights not expressly granted by this License are reserved exclusively by HJ Pro Gaming.
+All rights not expressly granted under this License are reserved exclusively by **Eldvor Technologies**.
 
 No implied licenses are granted.
 
@@ -267,7 +232,11 @@ No implied licenses are granted.
 
 ## 21. Contact
 
-Licensing requests, commercial agreements, and legal correspondence should be directed to HJ Pro Gaming through its official published contact channels.
+Licensing requests, commercial licensing inquiries, legal correspondence, and intellectual property matters should be directed to:
+
+**Eldvor Technologies**
+
+Website: https://eldvortechnologies.space
 
 ---
 
