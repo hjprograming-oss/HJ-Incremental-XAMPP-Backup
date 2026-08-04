@@ -1,6 +1,4 @@
-﻿using System;
-using System.IO;
-using Alphaleonis.Win32.Vss;
+﻿using Alphaleonis.Win32.Vss;
 
 namespace HJ_Inc_Backup.Services
 {

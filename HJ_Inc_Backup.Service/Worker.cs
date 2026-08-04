@@ -23,7 +23,7 @@ namespace HJ_Inc_Backup.Service
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            _logger.LogInformation("HJ XAMPP Backup Service started.");
+            _logger.LogInformation("Eldvor Guardian Backup Service started.");
             _logger.LogInformation("Source : {Source}", _settings.SourcePath);
             _logger.LogInformation("Dest   : {Dest}", _settings.DestinationPath);
             _logger.LogInformation("Interval: every {Min} minutes", _settings.IntervalMinutes);
@@ -48,7 +48,7 @@ namespace HJ_Inc_Backup.Service
                 await Task.Delay(TimeSpan.FromMinutes(_settings.IntervalMinutes), stoppingToken);
             }
 
-            _logger.LogInformation("HJ XAMPP Backup Service stopped.");
+            _logger.LogInformation("Eldvor Guardian Backup Service stopped.");
         }
 
         private async Task RunOneCycleAsync(CancellationToken ct)

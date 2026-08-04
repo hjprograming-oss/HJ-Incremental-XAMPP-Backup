@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace HJ_Inc_Backup.Models
+﻿namespace HJ_Inc_Backup.Models
 {
     public class BackupManifest
     {

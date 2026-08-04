@@ -1,10 +1,11 @@
 using HJ_Inc_Backup.Service;
+using HJ_Inc_Backup.Services;
 
 var builder = Host.CreateApplicationBuilder(args);
 
 builder.Services.AddWindowsService(options =>
 {
-    options.ServiceName = "HJ XAMPP Incremental Backup";
+    options.ServiceName = BackupServiceController.ServiceName;
 });
 
 builder.Services.AddHostedService<BackupWorker>();

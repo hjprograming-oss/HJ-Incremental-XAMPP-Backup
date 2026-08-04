@@ -5,7 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>HJ_Inc_Backup.Service</RootNamespace>
+    <Company>Eldvor Technologies</Company>
+    <Product>Eldvor Guardian</Product>
+    <Authors>Eldvor Technologies</Authors>
+    <AssemblyName>Eldvor Guardian.Service</AssemblyName>
     <Platforms>AnyCPU;x64</Platforms>
+    <BaseOutputPath>bin\</BaseOutputPath>
+    <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,9 +24,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Install_HJ_Backup_Service.bat">
+    <None Update="Licence.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
-</Project>
+ </Project>

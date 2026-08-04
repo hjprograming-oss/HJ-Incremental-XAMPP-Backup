@@ -5,6 +5,9 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>HJ_Inc_Backup</RootNamespace>
+    <Company>Eldvor Technologies</Company>
+    <Product>Eldvor Guardian</Product>
+    <Authors>Eldvor Technologies</Authors>
     <PackageIcon>j5lmr.jpg</PackageIcon>
     <ApplicationIcon>j5lmr.ico</ApplicationIcon>
     <Platforms>AnyCPU;x64</Platforms>

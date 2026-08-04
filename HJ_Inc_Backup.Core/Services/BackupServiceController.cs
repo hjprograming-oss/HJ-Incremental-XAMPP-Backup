@@ -1,15 +1,12 @@
-﻿using System;
-using System.Diagnostics;
-using System.IO;
+﻿using System.Diagnostics;
 using System.ServiceProcess;
-using System.Threading.Tasks;
 
 namespace HJ_Inc_Backup.Services
 {
     public static class BackupServiceController
     {
-        public const string ServiceName = "HJ XAMPP Incremental Backup";
-        public const string ServiceExeName = "HJ_Inc_Backup.Service.exe";
+        public const string ServiceName = "Eldvor Guardian Backup";
+        public const string ServiceExeName = "Eldvor Guardian.Service.exe";
 
         /// <summary>
         /// Folder under the main app where service files live:
@@ -186,7 +183,7 @@ namespace HJ_Inc_Backup.Services
 
             string binPath = exePath;
             // sc.exe needs spaces escaped carefully
-            string createArgs = $"create \"{ServiceName}\" binPath= \"{binPath}\" start= auto DisplayName= \"HJ XAMPP Incremental Backup\"";
+            string createArgs = $"create \"{ServiceName}\" binPath= \"{binPath}\" start= auto DisplayName= \"{ServiceName}\"";
 
             log?.Invoke("Registering Windows service...");
             await RunScAsync(createArgs, log);

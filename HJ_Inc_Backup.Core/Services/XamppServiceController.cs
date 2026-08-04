@@ -1,7 +1,5 @@
-﻿using System;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using System.ServiceProcess;
-using System.Threading.Tasks;
 
 namespace HJ_Inc_Backup.Services
 {
